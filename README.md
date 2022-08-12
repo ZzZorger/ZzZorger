@@ -1,16 +1,16 @@
-### Hi there 👋
+# Обо мне
+## Привет всем, меня зовут Александр :raised_hand:
++ :mortar_board:Стремлюсь осваивать современные технологии
++ :sunny:Люблю когда код чистый и структурированый
++ :hourglass:Когда рабочий процесс систематезирован
++ :sparkles:Хочу встроиться в опытный коллектив
++ 📫Потча для связи: yalex007@mail.ru
 
-<!--
-**ZzZorger/ZzZorger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Мой стек технологий
++ HTML 
++ CSS 
++ JavaScript 
++ React 
++ NodeJS 
++ Github 
++ Figma
